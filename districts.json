@@ -1,0 +1,12 @@
+{
+    "districts": [{
+        "name": "Thanjavur",
+        "id": "TNJ"
+    }, {
+        "name": "Madurai",
+        "id": "MD"
+    },{
+        "name": "Trichy",
+        "id": "TJ"
+    }]
+}
